@@ -1,3 +1,3 @@
 # sfg-pet-clinic
 
-SFT-Pet-Clinic
+SF-Pet-Clinic
